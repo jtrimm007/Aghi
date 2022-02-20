@@ -4,6 +4,7 @@ Automated Grass Hight Indicators
 # RTOS - Real-time operating system
 * [FreeRTOS](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/system/freertos.html)
 * [AWS Solutions](https://docs.aws.amazon.com/freertos/latest/userguide/getting_started_espressif.html)
+* [Zephyr](https://docs.zephyrproject.org/latest/boards/xtensa/esp32/doc/index.html)
 
 
 # Purchase List
