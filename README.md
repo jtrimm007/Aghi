@@ -1,6 +1,8 @@
 # Aghi
 Automated Grass Hight Indicators
 
+# RTOS - Real-time operating system
+* 
 # Purchase List
 * [Amazon List](https://www.amazon.com/hz/wishlist/dl/invite/2VP3z7k?ref_=wl_share)
 * [Female-Female only connectors](https://www.amazon.com/EDGELEC-Breadboard-1pin-1pin-Connector-Multicolored/dp/B07GD1W1VL/)
