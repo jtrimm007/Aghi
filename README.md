@@ -25,6 +25,8 @@ Automated Grass Hight Indicators
 
 # Books
 * Developing IoT Projects with ESP32: Automate your home or business with inexpensive Wi-Fi devices
+  *  [O'Really Media](https://learning.oreilly.com/library/view/developing-iot-projects/9781838641160/)
+  *  [Amazon](https://read.amazon.com/kp/embed?asin=B093CCWGDP&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_QTMQ2A0CBYC51EX1TF6G&tag=trimyard0f-20)
 
 # ML on the Edge
 * [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers)
