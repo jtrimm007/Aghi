@@ -20,6 +20,10 @@ Automated Grass Hight Indicators
 # Example Code ESP
 * [Developing IoT Projects with ESP32 | 2. Talking to the Earth – Sensors and Actuators](https://www.youtube.com/watch?v=MyzWEJyz1Uc&list=PLeLcvrwLe187iw968S35Xf2P2NxsqEqBo&index=2)
 
+# Part Spec Sheet Search
+* [Digikey](https://www.digikey.com/)
+* [Mouser](https://www.mouser.com/)
+
 # Documents
 * [Sharepoint](https://etsu365.sharepoint.com/sites/Aghi/Shared%20Documents/Forms/AllItems.aspx)
 
