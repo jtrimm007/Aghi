@@ -35,3 +35,6 @@ Automated Grass Hight Indicators
 # ML on the Edge
 * [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers)
 * https://www.tensorflow.org/lite 
+
+# Arduino IDE
+* [Instructions for ESP32](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/)
