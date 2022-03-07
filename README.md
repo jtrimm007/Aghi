@@ -41,4 +41,6 @@ Automated Grass Hight Indicators
 
 # ESP32 Pin Diagram
 ![image](https://user-images.githubusercontent.com/25275552/157131418-75638f1e-3034-411b-b854-07e7b6ac3c6a.png)
+![image](https://user-images.githubusercontent.com/16611773/157132314-7c8ec2b6-7dc0-4967-915e-6a0d16635f55.png)
+
 
