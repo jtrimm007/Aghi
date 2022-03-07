@@ -38,3 +38,7 @@ Automated Grass Hight Indicators
 
 # Arduino IDE
 * [Instructions for ESP32](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/)
+
+# ESP32 Pin Diagram
+![image](https://user-images.githubusercontent.com/25275552/157131418-75638f1e-3034-411b-b854-07e7b6ac3c6a.png)
+
