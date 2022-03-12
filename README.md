@@ -42,6 +42,7 @@ Automated Grass Hight Indicators
 # MQTT software
 * https://www.shiftr.io/
  * ![image](https://user-images.githubusercontent.com/16611773/158038814-9fc515a3-80d3-4a1d-84fc-ef3fe722ffec.png)
+ * mqtt://aghiv1:AghiProject@aghiv1.cloud.shiftr.io
 
 
 # ESP32 Pin Diagram
