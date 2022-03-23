@@ -39,6 +39,9 @@ Automated Grass Hight Indicators
 # Arduino IDE
 * [Instructions for ESP32](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/)
 
+# Arduino Ultrasonic
+* https://github.com/G6EJD/ESP32-Using-Hardware-Serial-Ports/blob/master/ESP32_Using_Serial2.ino
+
 # MQTT software
 * https://www.shiftr.io/
  * ![image](https://user-images.githubusercontent.com/16611773/158038814-9fc515a3-80d3-4a1d-84fc-ef3fe722ffec.png)
